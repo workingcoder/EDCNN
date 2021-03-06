@@ -4,6 +4,10 @@ By [Tengfei Liang](),  [Yi Jin](https://scholar.google.com/citations?user=NQAenU
 
 This repository is an official implementation of the paper [EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising](https://arxiv.org/abs/2011.00139).
 
+*Notes:*
+
+This repository provides model and loss implementation code, which can be easily integrated into the user's project.
+
 
 ## Introduction
 
