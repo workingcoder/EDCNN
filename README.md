@@ -6,7 +6,7 @@ This repository is an official implementation of the paper [EDCNN: Edge enhancem
 
 *Notes:*
 
-This repository provides model and loss implementation code, which can be easily integrated into the user's project.
+This repository provides [model and loss implementation code](./code), which can be easily integrated into the user's project.
 
 
 ## Introduction
