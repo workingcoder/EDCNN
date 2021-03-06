@@ -2,12 +2,12 @@
 
 By [Tengfei Liang](),  [Yi Jin](https://scholar.google.com/citations?user=NQAenU0AAAAJ&hl=en&oi=sra),  [Yidong Li](https://scholar.google.com/citations?hl=en&user=3PagRQEAAAAJ), [Tao Wang](https://scholar.google.com/citations?user=F3C5oAcAAAAJ&hl=en&oi=sra), [Songhe Feng](https://scholar.google.com/citations?user=K5lqMYgAAAAJ&hl=en&oi=sra), [Congyan Lang](https://scholar.google.com/citations?user=aNxqJREAAAAJ&hl=en&oi=sra).
 
-This repository is an official implementation of the original paper [EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising](https://arxiv.org/abs/2011.00139).
+This repository is an official implementation of the paper [EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising](https://arxiv.org/abs/2011.00139).
 
 
 ## Introduction
 
-EDCNN is a new end-to-end Low-Dose CT Denoiser. Designed as the FCN structure, it can effectively realize the low-dose CT image denoising in the way of post-processing. With the noval edge enhancement module, densely connection and compound loss, the model has a good performance in preserving details and suppressing noise in this denoising task. (For more details, please refer to [the paper](https://arxiv.org/abs/2011.00139))
+EDCNN is a new end-to-end Low-Dose CT Denoiser. Designed as the FCN structure, it can effectively realize the low-dose CT image denoising in the way of post-processing. With the noval edge enhancement module, densely connection and compound loss, the model has a good performance in preserving details and suppressing noise in this denoising task. (For more details, please refer to [the original paper](https://arxiv.org/abs/2011.00139))
 
 <br/>
 <div align="center">
