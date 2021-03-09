@@ -44,6 +44,19 @@ If you find EDCNN useful in your research, please consider citing:
   archivePrefix={arXiv},
   primaryClass={eess.IV}
 }
+
+or
+
+@INPROCEEDINGS{9320928,
+  author={T. {Liang} and Y. {Jin} and Y. {Li} and T. {Wang}},
+  booktitle={2020 15th IEEE International Conference on Signal Processing (ICSP)}, 
+  title={EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising}, 
+  year={2020},
+  volume={1},
+  number={},
+  pages={193-198},
+  doi={10.1109/ICSP48669.2020.9320928}
+}
 ```
 
 
