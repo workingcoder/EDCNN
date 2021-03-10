@@ -56,7 +56,8 @@ class SobelConv2d(nn.Module):
                     self.sobel_weight[idx, :, kernel_mid + i, i] = -1
                     self.sobel_weight[idx, :, i, kernel_mid + i] = 1
                 self.sobel_weight[idx, :, 0, -1] = 2
-
+        
+        # Define the trainable sobel factor
         if requires_grad:
             self.sobel_factor = nn.Parameter(torch.ones(size=(out_channels, 1, 1, 1), dtype=torch.float32),
                                              requires_grad=True)
