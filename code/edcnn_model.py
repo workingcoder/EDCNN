@@ -32,6 +32,7 @@ class SobelConv2d(nn.Module):
         self.sobel_weight = nn.Parameter(torch.zeros(
             size=(out_channels, int(in_channels / groups), kernel_size, kernel_size)), requires_grad=False)
 
+        # Initialize the Sobel kernal
         kernel_mid = kernel_size // 2
         for idx in range(out_channels):
             if idx % 4 == 0:
