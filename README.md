@@ -2,7 +2,7 @@
 
 By [Tengfei Liang](https://github.com/workingcoder),  [Yi Jin](https://scholar.google.com/citations?user=NQAenU0AAAAJ&hl=en&oi=sra),  [Yidong Li](https://scholar.google.com/citations?hl=en&user=3PagRQEAAAAJ), [Tao Wang](https://scholar.google.com/citations?user=F3C5oAcAAAAJ&hl=en&oi=sra).
 
-This repository is an official implementation of the paper [EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising](https://arxiv.org/abs/2011.00139). [`arXiv`](https://arxiv.org/abs/2011.00139) [`IEEEXplore`](https://ieeexplore.ieee.org/document/9320928)
+This repository is an official implementation of the paper [EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising](https://arxiv.org/abs/2011.00139). [`ArXiv`](https://arxiv.org/abs/2011.00139) [`IEEEXplore`](https://ieeexplore.ieee.org/document/9320928)
 
 *Notes:*
 
