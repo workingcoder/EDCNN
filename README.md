@@ -36,15 +36,16 @@ For fairness, we choose the [REDCNN](https://arxiv.org/abs/1702.00288), [WGAN](h
 ## Citing EDCNN
 If you find EDCNN useful in your research, please consider citing:
 ```bibtex
-@INPROCEEDINGS{9320928,
-  author={T. {Liang} and Y. {Jin} and Y. {Li} and T. {Wang}},
-  booktitle={2020 15th IEEE International Conference on Signal Processing (ICSP)}, 
-  title={EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising}, 
-  year={2020},
-  volume={1},
-  number={},
-  pages={193-198},
-  doi={10.1109/ICSP48669.2020.9320928}
+@article{Liang_2020,
+   title={EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising},
+   ISBN={9781728144801},
+   url={http://dx.doi.org/10.1109/ICSP48669.2020.9320928},
+   DOI={10.1109/icsp48669.2020.9320928},
+   journal={2020 15th IEEE International Conference on Signal Processing (ICSP)},
+   publisher={IEEE},
+   author={Liang, Tengfei and Jin, Yi and Li, Yidong and Wang, Tao},
+   year={2020},
+   month={Dec}
 }
 ```
 
