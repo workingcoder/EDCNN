@@ -33,6 +33,17 @@ For fairness, we choose the [REDCNN](https://arxiv.org/abs/1702.00288), [WGAN](h
 </div>
 
 
+
+## AAPM-Mayo dataset
+
+In the experiment of our study, we utilize the dataset of the [2016 NIH AAPM-Mayo Clinic Low-Dose CT Grand Challenge](https://www.aapm.org/grandchallenge/lowdosect/), which is used by current mainstream methods in the field of low-dose CT image denoising. It contains the paired normal-dose CT (NDCT) images and synthetic quarter-dose CT images (LDCT) with a size of 512x512 pixels, collected from 10 patients. So there are LDCT images for inputs of the model and NDCT images as targets, which can support the supervised training process. [`Download`](https://www.dropbox.com/sh/txplswleuxgrdue/AABD_1W7-SKdXuZD4myvC2Hqa?dl=0)
+
+<br/>
+<div align="center">
+  <img src="./figs/aapm_mayo_dataset.png" width="90%"/>
+</div>
+
+
 ## Citing EDCNN
 If you find EDCNN useful in your research, please consider citing:
 ```bibtex
